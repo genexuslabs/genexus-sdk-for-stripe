@@ -1,0 +1,35 @@
+c:\users\massi\documents\visual studio 2015\Projects\StripeSDK\StripeSDK\bin\Debug\StripeSDK.dll
+c:\users\massi\documents\visual studio 2015\Projects\StripeSDK\StripeSDK\bin\Debug\StripeSDK.pdb
+c:\users\massi\documents\visual studio 2015\Projects\StripeSDK\StripeSDK\bin\Debug\Newtonsoft.Json.dll
+c:\users\massi\documents\visual studio 2015\Projects\StripeSDK\StripeSDK\bin\Debug\Stripe.net.dll
+c:\users\massi\documents\visual studio 2015\Projects\StripeSDK\StripeSDK\bin\Debug\Newtonsoft.Json.xml
+c:\users\massi\documents\visual studio 2015\Projects\StripeSDK\StripeSDK\obj\Debug\StripeSDK.csprojResolveAssemblyReference.cache
+c:\users\massi\documents\visual studio 2015\Projects\StripeSDK\StripeSDK\obj\Debug\StripeSDK.dll
+c:\users\massi\documents\visual studio 2015\Projects\StripeSDK\StripeSDK\obj\Debug\StripeSDK.pdb
+\\dionisiod\artech-q\CABLE\mmarotta\Stripe\VSProject\StripeSDK\StripeSDK\bin\Debug\StripeSDK.dll
+\\dionisiod\artech-q\CABLE\mmarotta\Stripe\VSProject\StripeSDK\StripeSDK\bin\Debug\StripeSDK.pdb
+\\dionisiod\artech-q\CABLE\mmarotta\Stripe\VSProject\StripeSDK\StripeSDK\bin\Debug\Newtonsoft.Json.dll
+\\dionisiod\artech-q\CABLE\mmarotta\Stripe\VSProject\StripeSDK\StripeSDK\bin\Debug\Stripe.net.dll
+\\dionisiod\artech-q\CABLE\mmarotta\Stripe\VSProject\StripeSDK\StripeSDK\bin\Debug\Newtonsoft.Json.xml
+\\dionisiod\artech-q\CABLE\mmarotta\Stripe\VSProject\StripeSDK\StripeSDK\obj\Debug\StripeSDK.dll
+\\dionisiod\artech-q\CABLE\mmarotta\Stripe\VSProject\StripeSDK\StripeSDK\obj\Debug\StripeSDK.pdb
+C:\Users\Massi\Documents\StripeSDK\StripeSDK\bin\Debug\StripeSDK.dll
+C:\Users\Massi\Documents\StripeSDK\StripeSDK\bin\Debug\StripeSDK.pdb
+C:\Users\Massi\Documents\StripeSDK\StripeSDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Massi\Documents\StripeSDK\StripeSDK\bin\Debug\Stripe.net.dll
+C:\Users\Massi\Documents\StripeSDK\StripeSDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Massi\Documents\StripeSDK\StripeSDK\obj\Debug\StripeSDK.csprojResolveAssemblyReference.cache
+C:\Users\Massi\Documents\StripeSDK\StripeSDK\obj\Debug\StripeSDK.dll
+C:\Users\Massi\Documents\StripeSDK\StripeSDK\obj\Debug\StripeSDK.pdb
+C:\Users\Massi\Documents\StripeSDK\StripeSDK\bin\Debug\Serializer.dll
+C:\Users\Massi\Documents\StripeSDK\StripeSDK\bin\Debug\Serializer.pdb
+C:\Users\mmarotta\Documents\StripeSDK\StripeSDK\bin\Debug\StripeSDK.dll
+C:\Users\mmarotta\Documents\StripeSDK\StripeSDK\bin\Debug\StripeSDK.pdb
+C:\Users\mmarotta\Documents\StripeSDK\StripeSDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mmarotta\Documents\StripeSDK\StripeSDK\bin\Debug\Serializer.dll
+C:\Users\mmarotta\Documents\StripeSDK\StripeSDK\bin\Debug\Stripe.net.dll
+C:\Users\mmarotta\Documents\StripeSDK\StripeSDK\bin\Debug\Serializer.pdb
+C:\Users\mmarotta\Documents\StripeSDK\StripeSDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mmarotta\Documents\StripeSDK\StripeSDK\obj\Debug\StripeSDK.csprojResolveAssemblyReference.cache
+C:\Users\mmarotta\Documents\StripeSDK\StripeSDK\obj\Debug\StripeSDK.dll
+C:\Users\mmarotta\Documents\StripeSDK\StripeSDK\obj\Debug\StripeSDK.pdb

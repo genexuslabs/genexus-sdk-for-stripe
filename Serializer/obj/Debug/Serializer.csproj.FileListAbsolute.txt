@@ -1,0 +1,4 @@
+C:\Users\Massi\Documents\StripeSDK\Serializer\bin\Debug\Serializer.dll
+C:\Users\Massi\Documents\StripeSDK\Serializer\bin\Debug\Serializer.pdb
+C:\Users\Massi\Documents\StripeSDK\Serializer\obj\Debug\Serializer.dll
+C:\Users\Massi\Documents\StripeSDK\Serializer\obj\Debug\Serializer.pdb

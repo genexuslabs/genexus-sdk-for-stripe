@@ -1,0 +1,8 @@
+C:\Users\Massi\Documents\StripeSDK\Serializer\bin\Release\Serializer.dll
+C:\Users\Massi\Documents\StripeSDK\Serializer\bin\Release\Serializer.pdb
+C:\Users\Massi\Documents\StripeSDK\Serializer\obj\Release\Serializer.dll
+C:\Users\Massi\Documents\StripeSDK\Serializer\obj\Release\Serializer.pdb
+C:\Users\mmarotta\Documents\StripeSDK\Serializer\bin\Release\Serializer.dll
+C:\Users\mmarotta\Documents\StripeSDK\Serializer\bin\Release\Serializer.pdb
+C:\Users\mmarotta\Documents\StripeSDK\Serializer\obj\Release\Serializer.dll
+C:\Users\mmarotta\Documents\StripeSDK\Serializer\obj\Release\Serializer.pdb
