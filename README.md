@@ -1,3 +1,5 @@
+⚠️ This repo was created as a first integration test between GeneXus and the platform Stripe. It is not longer under development.
+
 # GeneXus SDK for Stripe
 
 Implementation of a Stripe wrapper that can be inspect from a GeneXus IDE and be integrated into a GeneXus generated web app.
