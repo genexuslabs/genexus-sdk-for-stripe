@@ -24,7 +24,7 @@ namespace StripeConsoleApp
         public void Serialize()
         {
             var json = "{\"Amount\":4500,\"Currency\":\"usd\",\"ApplicationFee\":0,\"Capture\":true,\"Description\":\"\",\"Destination\":\"\",\"DestinationAmount\":\"\",\"ExchangeRate\":\"\",\"TransferGroup\":\"\",\"OnBehalfOf\":\"\",\"Metadata\":\"\",\"ReceiptEmail\":\"\",\"Shipping\":\"\",\"CustomerId\":\"\",\"SourceTokenOrExistingSourceId\":\"tok_1BbXAfDauvMb2JHj1bjzspsY\",\"SourceCard\":\"\",\"StatementDescriptor\":\"\"}";
-            var jsondes = "{\"Amount\":4500,\"Currency\":\"usd\",\"ApplicationFee\":0,\"Capture\":true,\"Description\": null,\"Destination\": null,\"DestinationAmount\": null,\"ExchangeRate\": null,\"TransferGroup\": null,\"OnBehalfOf\": null,\"Metadata\": null,\"ReceiptEmail\": null,\"Shipping\": null,\"CustomerId\": null,\"SourceTokenOrExistingSourceId\":\"tok_1BbA8XDauvMb2JHj6QesXCB9\",\"SourceCard\": null,\"StatementDescriptor\": null}";
+            //var jsondes = "{\"Amount\":4500,\"Currency\":\"usd\",\"ApplicationFee\":0,\"Capture\":true,\"Description\": null,\"Destination\": null,\"DestinationAmount\": null,\"ExchangeRate\": null,\"TransferGroup\": null,\"OnBehalfOf\": null,\"Metadata\": null,\"ReceiptEmail\": null,\"Shipping\": null,\"CustomerId\": null,\"SourceTokenOrExistingSourceId\":\"tok_1BbA8XDauvMb2JHj6QesXCB9\",\"SourceCard\": null,\"StatementDescriptor\": null}";
 
             //var jsonRep = json.Replace("\"\"", " null");
 
