@@ -2,10 +2,6 @@
 
 Implementation of a Stripe wrapper that can be inspect from a GeneXus IDE and be integrated into a GeneXus generated web app.
 
-# Requirements
-
-
-
 # License
 ```
 Licensed under the Apache License, Version 2.0 (the "License");
