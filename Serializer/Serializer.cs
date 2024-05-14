@@ -16,7 +16,7 @@ namespace Serialization
             {
                 ret = new JavaScriptSerializer().Serialize(obj);
             }
-            catch (Exception e)
+            catch (Exception)
             {
                
             }
@@ -32,7 +32,7 @@ namespace Serialization
             {
                 ret = new JavaScriptSerializer().Deserialize<T>(jsonWNull);
             }
-            catch (Exception e)
+            catch (Exception)
             {
 
             }

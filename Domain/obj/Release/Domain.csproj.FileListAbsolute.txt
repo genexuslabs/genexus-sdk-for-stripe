@@ -1,8 +1,0 @@
-C:\Users\Massi\Documents\StripeSDK\Domain\bin\Release\Domain.dll
-C:\Users\Massi\Documents\StripeSDK\Domain\bin\Release\Domain.pdb
-C:\Users\Massi\Documents\StripeSDK\Domain\obj\Release\Domain.dll
-C:\Users\Massi\Documents\StripeSDK\Domain\obj\Release\Domain.pdb
-C:\Users\mmarotta\Documents\StripeSDK\Domain\bin\Release\Domain.dll
-C:\Users\mmarotta\Documents\StripeSDK\Domain\bin\Release\Domain.pdb
-C:\Users\mmarotta\Documents\StripeSDK\Domain\obj\Release\Domain.dll
-C:\Users\mmarotta\Documents\StripeSDK\Domain\obj\Release\Domain.pdb

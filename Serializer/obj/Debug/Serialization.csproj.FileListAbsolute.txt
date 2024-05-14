@@ -1,4 +1,0 @@
-C:\Users\mmarotta\Documents\StripeSDK\Serializer\bin\Debug\Serializer.dll
-C:\Users\mmarotta\Documents\StripeSDK\Serializer\bin\Debug\Serializer.pdb
-C:\Users\mmarotta\Documents\StripeSDK\Serializer\obj\Debug\Serializer.dll
-C:\Users\mmarotta\Documents\StripeSDK\Serializer\obj\Debug\Serializer.pdb
